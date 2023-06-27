@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2f09f279848e42cea259348b13bce4c5, type: 3}
+  m_Name: FireExtinguishers Extinguishing Units
+  m_EditorClassIdentifier: 
+  m_LabelEntries:
+  - label: 13A
+    id: 1
+    hierarchyRelation: 0
+  - label: 21A
+    id: 2
+    hierarchyRelation: 0
+  - label: 27A
+    id: 3
+    hierarchyRelation: 0
+  - label: 34A
+    id: 4
+    hierarchyRelation: 0
+  - label: 43A
+    id: 5
+    hierarchyRelation: 0
+  - label: 55A
+    id: 6
+    hierarchyRelation: 0
+  - label: 34B
+    id: 7
+    hierarchyRelation: 0
+  - label: 89B
+    id: 8
+    hierarchyRelation: 0
+  - label: 113B
+    id: 9
+    hierarchyRelation: 0
+  - label: 144B
+    id: 10
+    hierarchyRelation: 0
+  - label: 183B
+    id: 11
+    hierarchyRelation: 0
+  - label: 233B
+    id: 12
+    hierarchyRelation: 0
+  - label: C
+    id: 13
+    hierarchyRelation: 0
+  - label: D
+    id: 14
+    hierarchyRelation: 0
+  - label: 75F
+    id: 15
+    hierarchyRelation: 0
+  autoAssignIds: 1
+  startingLabelId: 1
